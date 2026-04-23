@@ -1,0 +1,8 @@
+# ninja log v5
+4	31	1776876840874546470	demoappds_autogen/timestamp	8d857cef09701a63
+4	31	1776876840874546470	demoappds_autogen/mocs_compilation.cpp	8d857cef09701a63
+4	31	1776876840874546470	/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/demoappds_autogen/mocs_compilation.cpp	8d857cef09701a63
+4	31	1776876840874546470	/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/demoappds_autogen/timestamp	8d857cef09701a63
+35	48	1776875577517341593	CMakeFiles/demoappds.dir/demoappds_autogen/mocs_compilation.cpp.o	2fb1038ed52284fb
+31	1191	1776876842034562054	CMakeFiles/demoappds.dir/main.cpp.o	6f2b455516346b8a
+1191	1335	1776876842177563975	demoappds	cf828e8ae1c848a4

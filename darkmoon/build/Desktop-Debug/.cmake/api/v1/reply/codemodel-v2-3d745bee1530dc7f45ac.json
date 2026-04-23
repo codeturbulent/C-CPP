@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-508148c5e217ca403138.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "darkmoon",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-88c42d83e6e5291fc6f7.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1a8b081176b4940598f9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6b89c7adc912ea77913c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon-Debug-3f988b86b70cdea5f6dd.json",
+					"name" : "appdarkmoon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_autogen-Debug-2d7b3bab790b030a5504.json",
+					"name" : "appdarkmoon_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_autogen_timestamp_deps-Debug-15ef869b7899af12136e.json",
+					"name" : "appdarkmoon_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_other_files-Debug-14e78f2f8f46c3d12bcd.json",
+					"name" : "appdarkmoon_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_qmlimportscan-Debug-810847864378b0d01fe2.json",
+					"name" : "appdarkmoon_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_qmllint-Debug-a949dc9100f5dcbff688.json",
+					"name" : "appdarkmoon_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_qmllint_json-Debug-fc720a8ff1fbc8849319.json",
+					"name" : "appdarkmoon_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_qmltyperegistration-Debug-0ac9311202f016a636fe.json",
+					"name" : "appdarkmoon_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdarkmoon_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdarkmoon_tooling-Debug-2c93e328971a1be35039.json",
+					"name" : "appdarkmoon_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug",
+		"source" : "/home/yadav/Everything-Code/C++-C/darkmoon"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

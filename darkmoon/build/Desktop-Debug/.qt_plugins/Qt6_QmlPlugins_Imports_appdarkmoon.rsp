@@ -1,0 +1,14 @@
+-rootPath
+/home/yadav/Everything-Code/C++-C/darkmoon
+-cmake-output
+-output-file
+/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appdarkmoon.cmake
+-importPath
+/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug/darkmoon
+-importPath
+/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug/.rcc/qmake_darkmoon.qrc
+/home/yadav/Everything-Code/C++-C/darkmoon/build/Desktop-Debug/.rcc/appdarkmoon_raw_qml_0.qrc

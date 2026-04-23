@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/darkmoon/">
+    <file alias="Main.qml">/home/yadav/Everything-Code/C++-C/darkmoon/Main.qml</file>
+  </qresource>
+</RCC>
+

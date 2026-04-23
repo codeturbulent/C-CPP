@@ -1,0 +1,9 @@
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/demoappds.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/install.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/demoappds_autogen_timestamp_deps.dir
+/home/yadav/Everything-Code/C++-C/demoappds/build/Desktop-Debug/CMakeFiles/demoappds_autogen.dir
